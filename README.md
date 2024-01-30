@@ -16,10 +16,11 @@ This program mines the history of a given Java GitHub code repository to identif
      ```
 
 3. **Required Packages:**
-   - Install the necessary Python packages using the following command:
-     ```bash
-     pip install requests gitpython
-     ```
+      - Install PyDriller:
+
+    ```bash
+    pip install pydriller
+    ```
 
 ### Running the Code
 

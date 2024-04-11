@@ -1,0 +1,3 @@
+Test Case Link,Class Name,Method Calls,Redundant Test Name,Commit SHA
+https://github.com/google/gson/blob/3f261441651fe6a5f57cf4e6aa655f9661dc606a/gson/src/test/java/com/google/gson/functional/SystemOnlyTypeAdaptersTest.java,Gson,toJson,testSerializeDefault,3f261441651fe6a5f57cf4e6aa655f9661dc606a
+https://github.com/google/gson/blob/3f261441651fe6a5f57cf4e6aa655f9661dc606a/gson/src/test/java/com/google/gson/functional/SystemOnlyTypeAdaptersTest.java,Gson,fromJson,testDeserializeDefault,3f261441651fe6a5f57cf4e6aa655f9661dc606a
